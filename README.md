@@ -9,7 +9,7 @@
 
 # Operational Overview
 
-![System Architecture]()
+![System Architecture](https://github.com/neelgandhi108/Dartmouth-Stories/blob/main/architecture.png)
 
 1.  Every day, at a predefined time, an [EventBridge Schedule](https://aws.amazon.com/blogs/compute/introducing-amazon-eventbridge-scheduler/) triggers a Lambda function.
     
